@@ -5,3 +5,4 @@
 4. Når du er færdig med at spille så push den nye verden så vi andre kan spille videre.
 
 Hvis du ikke er contributer så skriv dit github username til mig på Discord.
+Ellers lav en pull request :)
