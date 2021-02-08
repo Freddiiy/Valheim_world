@@ -3,3 +3,5 @@
 2. Kør Valheim.
 3. Vælg verdenen "Fredeseventyr"
 4. Når du er færdig så push den nye verden så vi andre kan spille videre.
+
+Hvis du ikke er contributer så skriv dit github username til mig på Discord.
